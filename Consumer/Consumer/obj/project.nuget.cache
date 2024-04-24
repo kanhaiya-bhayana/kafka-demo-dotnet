@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eK8dFWzOQKy0ZZKSVxVmNn3XXVLt54gL1S5vNdOflTg4v3dgbNZXOlD7FBifI20AJjpxo0axf77Pefr7p5/pbw==",
+  "success": true,
+  "projectFilePath": "D:\\Kanhaiya\\Leaning\\Kafka\\Dotnet\\Test\\Consumer\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
